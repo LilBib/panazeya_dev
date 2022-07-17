@@ -1,0 +1,13 @@
+.main__slogan {
+    margin: 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: slogan-animation 15s infinite steps(42);
+}

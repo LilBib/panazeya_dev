@@ -1,0 +1,14 @@
+.doc-brief {
+    display: flex;
+    flex-direction: row;
+    min-height: 191px;
+    width: 568px;
+}
+.doc-brief:nth-of-type(2n+1) {
+    margin-left: 122px;
+    align-self: flex-start;
+}
+.doc-brief:nth-of-type(2n) {
+    margin-right: 122px;
+    align-self: flex-end;
+}

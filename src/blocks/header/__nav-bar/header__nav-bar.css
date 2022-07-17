@@ -1,0 +1,6 @@
+.header__nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-self: flex-end;
+    align-self: center;
+}

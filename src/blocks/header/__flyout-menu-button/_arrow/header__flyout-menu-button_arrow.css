@@ -1,0 +1,6 @@
+.header__flyout-menu-button_arrow {
+    transition: ease-in-out .4s;
+}
+.header__flyout-menu-button:hover {
+    opacity: .85;
+}

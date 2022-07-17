@@ -1,0 +1,11 @@
+.doc-check__about {
+    margin: 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(149, 54, 64, 0.7);
+    width: 60%;
+    text-align: center;
+}

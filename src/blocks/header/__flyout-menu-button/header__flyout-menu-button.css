@@ -1,0 +1,6 @@
+.header__flyout-menu-button {
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}

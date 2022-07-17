@@ -1,0 +1,39 @@
+@keyframes slogan-animation {
+    0% {
+        width: 100%;
+    }
+    25% {
+        width: 0%;
+    }
+
+    50% {
+        width: 0%;   
+    }
+    75% {
+        width: 0%;
+    }
+
+    100% {
+        width: 100%;
+    }
+
+}
+@keyframes slogan-animation_alt {
+    0% {
+        width: 0;
+    }
+    27% {
+        width: 0%;
+    }
+
+    50% {
+        width: 100%;   
+    }
+    75% {
+        width: 0%;
+    }
+
+    100% {
+        width: 0%;
+    }
+}

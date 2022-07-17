@@ -1,0 +1,7 @@
+.main__search-line_magnifier {
+    position: absolute;
+    left: 20px;
+    width: 24px;
+    height: 24px;
+    bottom: 12px;
+}

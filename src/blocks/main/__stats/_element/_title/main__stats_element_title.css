@@ -1,0 +1,9 @@
+.main__stats_element_title {
+    font-family: Monsterrat, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(149, 54, 64, 0.8);
+    margin: 0;
+}

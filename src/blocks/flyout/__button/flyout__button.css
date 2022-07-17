@@ -1,0 +1,32 @@
+.flyout__button {
+    position: relative;
+    font-family: Monsterrat, Arial, Helvetica, sans-serif;
+    color: #953640;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    transition: ease-in-out .4s ;
+    margin: 0px;
+    cursor: pointer;
+}
+
+.flyout__button:first-child {
+    margin-bottom: 16px;
+}
+
+.flyout__button:hover {
+    opacity: .85;
+    color: #fff;
+}
+.flyout__button:hover::before {
+    position: absolute;
+    top: -5px;
+    left: -12px;
+    width: calc(100% + 24px);
+    height: 39px; 
+    background-color: #953640; 
+    border-radius: 10px;
+    content: "";
+    z-index: -1;
+}

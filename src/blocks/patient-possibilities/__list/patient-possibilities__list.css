@@ -1,0 +1,8 @@
+.patient-possibilities__list {
+    margin: 0;
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-left: 120px;
+}

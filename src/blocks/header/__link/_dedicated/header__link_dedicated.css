@@ -1,0 +1,15 @@
+.header__link_dedicated {
+    position: relative;
+    color: #FFFFFF;
+}
+.header__link_dedicated::before {
+    position: absolute;
+    top: -4px;
+    left: -15px;
+    width: calc(100% + 30px);
+    height: 39px; 
+    background-color: #953640; 
+    border-radius: 10px;
+    content: "";
+    z-index: -1;
+}

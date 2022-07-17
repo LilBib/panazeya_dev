@@ -1,0 +1,17 @@
+.flyout {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 116px;
+    border: 1px solid #953640;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 3px;
+    top: 80px;
+    z-index: -1;
+    transform: translateY(-20px);
+    transition: all .5s ease-in-out;
+    opacity: 0;
+}

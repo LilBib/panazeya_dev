@@ -1,0 +1,14 @@
+.main__slogan_alt {
+    margin: 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0;
+    animation: slogan-animation_alt 15s infinite steps(42);
+}
